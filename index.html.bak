@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+	<link href="styles/style.css" rel="stylesheet" />
+	
+    <meta charset="utf-8" />
+    <!-- <meta name="viewport" content="width=device-width" /> -->
+	<!-- <link rel="preconnect" href="https://fonts.googleapis.com"> -->
+	<!-- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> -->
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+	<link rel="icon" href="images/icon.webp">
+  </head>
+  <body>
+    <h1>Why golden retrivers are the best dogs?</h1>
+	<img src="images/golden-retriever.webp" alt="A happy golden retriever" />
+	<p>These are the reasons:</p>
+	
+	<ul>
+		<li>They are cute</li>
+		<li>They are intelligent</li>
+		<li>They are always happy to see you</li>
+		<li>They are the embodiment of love </li>
+	</ul>
+	
+	<p>You can read more about golden retrievers at
+		<a href="https://www.thekennelclub.org.uk/search/breeds-a-to-z/breeds/gundog/retriever-golden/">the Kernel Club</a>.
+	</p>
+	<button>Change user</button>
+	<script src="scripts/main.js"></script>
+  </body>
+</html>

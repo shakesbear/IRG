@@ -1,0 +1,44 @@
+html {
+	font-family: "Open Sans", serif;
+	font-optical-sizing: auto;
+	font-weight: 200;
+	font-style: normal;
+	font-variation-settings:
+    "wdth" 100;
+	background-color: #fef5cb;
+	background-image: url("../images/background.webp");
+	/* background-repeat: repeat; */
+	background-size: 100% auto;
+}
+
+body {
+	width: 800px;
+	margin: 20px auto;
+	background-color: #fef5cb;
+	padding: 10px 20px 20px 20px;
+	border: 3px solid black;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: left;
+	margin: 0;
+	padding: 20px 0;
+	color: #00539f;
+	text-shadow: 1px 1px 1px black;
+}
+
+p,
+li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+img {
+	display: block;
+	/* margin-left: auto; */
+	/* margin-right: auto; */
+	margin: 0 auto;
+	width: 70%;
+}
